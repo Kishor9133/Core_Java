@@ -1,1 +1,31 @@
 Basic 1st git related commit file lkhbgeb
+
+git user -> git config --global user.name "Kishor"
+git email -> git config --global user.email "kishor.k3113@gmail.com"
+git clone -> git clone https://github.com/Kishor9133/Core_Java.git
+git status -> 
+git add . / git add <file_name>
+git commit -m "message"
+git push 
+
+====================================================================
+if we are using aother system 
+
+git user -> git config --global user.name "Kishor"
+git email -> git config --global user.email "kishor.k3113@gmail.com"
+if 1st time we using new system then  git clone -> git clone https://github.com/Kishor9133/Core_Java.git
+if already core is there means -> git pull
+
+
+
+===================================================
+#### 📁 Option 1: If Project is Already Cloned Locally
+
+1. Open **Eclipse**.
+2. Go to **File > Import**.
+3. Choose **General > Existing Projects into Workspace** → Click **Next**.
+4. Click **Browse** and select the cloned `Core_Java` folder.
+5. Click **Finish**.
+ ===================================================
+ pwd -> is for to check the file we are on
+
