@@ -17,7 +17,7 @@ for(int i=1;i<arr1.length;i++) {
 for(int j=1;j<arr2.length;j++) {
 	if(min >arr2[j]) {
 		min =arr2[j];
-		System.out.println();
+		System.out.println(arr2[j]);
 	}
 }
 	}
